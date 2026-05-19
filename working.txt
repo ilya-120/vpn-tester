@@ -1,1 +1,1 @@
-vless://fd365b7e-26eb-479a-a009-e182d827de04@84.201.169.50:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=c31f9a0e7d4b52#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%23300
+vless://7b921ecd-fc42-4110-b7bf-20f1bd2649b7@84.201.174.10:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=b3bd6f5b168c4d61#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23198
