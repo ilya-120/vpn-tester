@@ -1,4 +1,3 @@
 trojan://BxceQaOe@116.80.61.236:443?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵[openproxylist.com] trojan-JP
 vless://70440b40-5e3b-41c1-a9cb-d7113d216ef8@demw.verymad.net:27439?type=tcp&headerType=none&security=reality&encryption=none&sni=www.vk.com&fp=firefox&pbk=Re0aWbYgk775QZ2eiIzh9fwPANq8HfLlrp9vbTC8vXQ&sid=ac2ceae11eb0&spx=%2F093szYMnd9mlA4v#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-16147
-vless://fc5f38ed-a9d0-49f8-ac16-4aac9fc3d0c8@vm88523.vpsone.xyz:38941?type=tcp&headerType=none&security=reality&encryption=none&sni=www.vk.com&fp=firefox&pbk=Yked1lhut59cOfUoCajb_H1XJvYdEc1ub5NSUAGfLn0&sid=c57b1b79&spx=%2FcNeQDJpBN8Egd4f#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-7578
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@est-def.sbrf-cdn342.ru:443?security=tls&type=tcp&sni=sub.sbrf-cdn342.ru&fp=chrome&flow=xtls-rprx-vision&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%B7%20%5B%2ACIDR%5D
