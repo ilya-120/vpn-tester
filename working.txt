@@ -25,6 +25,6 @@ vless://725fe80b-0380-4f2e-9403-dabbc69e856e@158.160.249.158:8443?flow=xtls-rprx
 vless://725fe80b-0380-4f2e-9403-dabbc69e856e@158.160.150.233:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=d995792afeb193#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%E2%80%94%20%2359
 trojan://BxceQaOe@116.80.80.121:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇯🇵[openproxylist.com] trojan-JP
 vless://842c064f-6fb0-4045-a34e-6ec005fc1f36@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23392
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3RG9XcUx4RDVDTXVicFQxdHpJeVdY@145.249.109.13:4917#🇪🇸33450 | ⚡️Telegram = t.me/SOSkeyNET
 vless://98236685-ab26-4bb7-99e0-1b5b350a5551@ba.amooyam.com:443?security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=ba.amooyam.com&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=ba.amooyam.com#t.me/BetV2ray (7560) DE 🇩🇪
 vless://725fe80b-0380-4f2e-9403-dabbc69e856e@158.160.249.158:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=d995792afeb193#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%E2%80%94%20%2342
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3RG9XcUx4RDVDTXVicFQxdHpJeVdY@145.249.109.13:4917#🇪🇸33450 | ⚡️Telegram = t.me/SOSkeyNET
