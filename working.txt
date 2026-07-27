@@ -1,9 +1,6 @@
-vless://8bba3194-4856-46d1-8319-075817d87eb1@2.26.82.219:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=W9co3pXpjBKJ71a0c3CUm-xEYKRr5N_Da6VHfWnmxTo&sid=8e3962faa693e66c&sni=nl5.cyphervpn.pro#0485 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388?#0616 | 🇪🇸 Spain | SS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://f7e0e597-636e-4550-9f54-6ab1c0e8cf49@62.60.231.42:2053?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Xx3r5KsSKa1I8O3avmwMbgXOWj_-MqiqzTO_7BzBxyU&sid=58c5b3ee013bdc8f&sni=www.nvidia.com#0633 | 🇸🇪 Sweden | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWlFZOWhOalZOV3dhbWFqclhBZjF2dDh1NjNuajBmRg@31.76.80.205:8388?#0874 | 🇫🇮 Finland | SS | 📺 YT | TG: @YoutubeUnBlockRu
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061?#0869 | 🇮🇳 India | 🏳️ CIDR-OLD | SS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@180.178.60.252:10000?type=tcp&security=none&encryption=none#1153 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.148:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&sni=yahoo.com#1248 | 🇬🇧 United Kingdom | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.61:28061?#1299 | 🇮🇳 India | 🏳️ CIDR-OLD | SS | 📺 YT | TG: @YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388?#1339 | 🇪🇸 Spain | SS | 📺 YT | TG: @YoutubeUnBlockRu
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755?#1370 | 🇸🇬 Singapore | SS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://da7685a7-15ef-41e4-a0d9-009bb4be7220@151.245.192.225:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=5678&sni=auto.malina24.xyz#1418 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
@@ -11,11 +8,14 @@ vless://c737cf33-0af6-4ce3-9446-b2425d222be5@31.15.16.220:4334?type=tcp&security
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080?#1549 | 🇨🇦 Canada | SS | 🌟 Gemini | 📺 YT | TG: @YoutubeUnBlockRu
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.231.82:5600?#1594 | 🇦🇺 Australia | SS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://8bba3194-4856-46d1-8319-075817d87eb1@31.77.131.16:2443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-KXksmJF8nKxlRkGQmQUxTaL8bwo9ovMWtM5eDFVqx8&sid=a90b11965b93922b&sni=nl6.cyphervpn.pro#1678 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://da7685a7-15ef-41e4-a0d9-009bb4be7220@84.75.161.38:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=5678&sni=auto.malina24.xyz#1699 | 🇩🇰 Denmark | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090?#1840 | 🇸🇬 Singapore | SS | 📺 YT | TG: @YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388?#1961 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@31.58.182.250:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&sni=eu-central.cendora.ru#1998 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://2d7c8eef-49c0-4d89-a74f-591ea805274d@31.56.146.50:443?type=grpc&security=reality&fp=firefox&pbk=dSKIQmSXKkmpXGcB9RCt320PmpuE92omqsVqdH351G8&sni=yahoo.com&mode=gun#2127 | 🇫🇷 France | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001?#2203 | 🇮🇹 Italy | SS | 📺 YT | TG: @YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080?#2688 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://c7e9c591-2764-423a-afca-efbd010fd396@103.54.16.230:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#2604 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388?#2862 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.58.163:8443?type=ws&security=tls&fp=chrome&sni=vlso.1d.mom#2868 | 🇬🇧 United Kingdom | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008?#3168 | 🇩🇪 Germany | SS | 🔉 YTM | 📺 YT | TG: @YoutubeUnBlockRu
