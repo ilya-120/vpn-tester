@@ -1,7 +1,8 @@
-vless://1d16c6e0-1bbe-435b-b661-90043fee999c@4.216.102.153:38765?type=ws&security=tls&sni=notls.lukongtou.eu.org&ed=2560&eh=Sec-WebSocket-Protocol#3921 | 🇯🇵 Japan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499?#3970 | 🇧🇬 Bulgaria | SS | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://521314@91.193.58.48:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#3926 | 🇬🇧 United Kingdom | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://521314@154.197.64.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#3949 | 🇺🇸 USA | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 vless://63f96e98-f83f-48d0-9cd0-f31e8071f67f@5.253.59.220:450?type=xhttp&security=reality&fp=firefox&pbk=tmAjOz--91FN1wLL3nP9A8JfsPa2ipvMZqLmNuUA0zA&sid=cc02825c94e9d055&sni=m.ok.ru&mode=auto#3984 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@194.164.92.198:1234?#4000 | 🇬🇧 United Kingdom | SS | 📺 YT | TG: @YoutubeUnBlockRu
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499?#3970 | 🇧🇬 Bulgaria | SS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@4.216.102.153:38765?type=ws&security=tls&sni=notls.lukongtou.eu.org&ed=2560&eh=Sec-WebSocket-Protocol#3921 | 🇯🇵 Japan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080?#4010 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://521314@170.114.46.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#4071 | 🇺🇸 USA | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://521314@91.193.58.83:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#4086 | 🇬🇧 United Kingdom | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
@@ -9,16 +10,15 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600?#4195 | 🇵🇱 Po
 trojan://521314@154.197.121.27:443?type=ws&security=tls&sni=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&sni=hhtj.hhllfly.kdns.fr#4229 | 🇯🇵 Japan | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://521314@154.198.173.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#4247 | 🇮🇳 India | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://521314@192.200.160.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#4263 | 🇺🇸 USA | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-vless://5bb7df8d-ad02-41fa-a8e6-8a8a4650d2c4@212.34.134.163:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&sid=7bcfc0bc&sni=yahoo.com#4302 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://52d0b2d5-a003-4509-ab70-d1d720a14cd7@37.221.210.181:443?type=xhttp&security=reality&fp=qq&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&sni=hu007.bearbeer.digital&mode=auto#4330 | 🇭🇺 Hungary | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://521314@102.177.176.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#4331 | 🇩🇪 Germany | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+vless://5bb7df8d-ad02-41fa-a8e6-8a8a4650d2c4@212.34.134.163:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&sid=7bcfc0bc&sni=yahoo.com#4302 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://521314@159.246.55.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#4344 | 🇺🇸 USA | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://521314@74.49.214.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#4345 | 🇭🇺 Hungary | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 vless://b97e287f-a24e-0021-a103-7e7ecef83139@5.61.91.218:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=e1f8a3b6&sni=www.amd.com#4403 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://521314@192.65.217.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#4436 | 🇦🇺 Australia | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://521314@31.43.179.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#4476 | 🇰🇿 Kazakhstan | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://521314@92.243.75.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#4532 | 🇰🇭 Cambodia | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@109.69.218.168:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&sni=agile-raptor.cdn.cachefleet.com#4564 | 🇧🇪 Belgium | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://521314@164.38.155.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#4585 | 🇬🇧 United Kingdom | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 vless://1d16c6e0-1bbe-435b-b661-90043fee999c@199.68.156.123:443?type=ws&security=tls&sni=notls.lukongtou.eu.org#4613 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://521314@188.42.145.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#4628 | 🇳🇱 Netherlands | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
