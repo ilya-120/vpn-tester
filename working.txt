@@ -1,6 +1,3 @@
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@45.82.13.48:13868?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&sid=e852dc&sni=booking.com#5077 | 🇦🇱 Albania | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://5aab0d40-c509-4560-b048-ade921fdfb6a@70.39.197.13:46197?type=tcp&security=reality&encryption=none&fp=firefox&pbk=npJEB6VpYJ9iYTZ-z0IL06Xs7PEz0N3fZU_IRwftQ00&sid=f24c17bb7fc284&sni=updates.cdn-apple.com&spx=/2Ffdded5f9698d939#5089 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080?#5132 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443?#5154 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&sni=yahoo.com#5161 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080?#5178 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
@@ -9,22 +6,25 @@ trojan://ND91608427@54.180.228.238:443?type=tcp&security=tls&encryption=none&fp=
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&sni=yahoo.com#5214 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://ND91608427@54.249.34.120:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=social-mutt.rooster465.autos#5251 | 🇯🇵 Japan | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080?#5327 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc@38.180.135.156:8388?#5346 | 🇺🇸 USA | SS | 🌟 Gemini | 📺 YT | TG: @YoutubeUnBlockRu
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.109.199:13868?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&sid=e852dc&sni=wp.pl#5476 | 🇵🇱 Poland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://56cdedf4-3e09-43fd-8108-d48f353c7b33@5.61.36.241:443?type=xhttp&security=reality&fp=firefox&pbk=9ZzZZoBgBBaccMnatKoPV6vZTlYMw2swxSFbEsg4u3w&sid=64f2&sni=google.com&mode=auto&spx=/e77e593d4a928a4#5477 | 🇩🇪 Germany | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@fin2.freeinternat.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&sni=fin2.freeinternat.com&spx=/#5384 | 🇦🇹 Austria | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxQjJDdjlWSWx1amo@23.150.248.20:8388?#5505 | 🇺🇸 USA | SS | 🌟 Gemini | 📺 YT | TG: @YoutubeUnBlockRu
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443?#5576 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080?#5609 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&sni=yahoo.com#5554 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388?#5553 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443?#5576 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@54.240.174.40:443?type=ws&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net#5544 | 🇳🇴 Norway | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080?#5609 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://1078d418-b4e0-4668-9018-dc90c2042d61@162.251.82.131:443?type=ws&security=tls&fp=firefox&sni=workspace.evan00.dpdns.org#5672 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://ND91608427@54.65.167.167:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=tough-robin.rooster465.autos#5669 | 🇯🇵 Japan | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080?#5687 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080?#5725 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@130.49.189.41:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs&sid=4fa44664f6a566d3&sni=youtube.superbuba.top#5736 | 🇦🇱 Albania | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.129:8080?#5744 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.160:443?#5752 | 🇺🇸 USA | SS | 🌟 Gemini | 📺 YT | TG: @YoutubeUnBlockRu
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.238.109.17:443?type=ws&security=tls&fp=chrome&sni=d1yxsk0zprgivr.cloudfront.net#5743 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@62.133.62.70:13868?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XnKwjsz6ec8B10wrZRTF1X120qtsmIo4Q7nEXd00MhE&sid=e852dc&sni=vimeo.com#5772 | 🇫🇷 France | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://ND91608427@43.202.56.122:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=striking-maggot.rooster465.autos#5785 | 🇰🇷 South Korea | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@45.155.68.233:13868?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xbCFPD2Gk3HP6EwfFT_0W3D_-biFaz10wlPc2h3y6QQ&sid=e852dc&sni=yoox.com#5831 | 🇮🇹 Italy | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://ND91608427@43.202.56.122:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=striking-maggot.rooster465.autos#5785 | 🇰🇷 South Korea | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@108.138.26.24:443?type=ws&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net#5792 | 🇩🇪 Germany | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://AE62539071@oriented-pegasus.rooster465.autos:443?type=tcp&security=tls&encryption=none&fp=chrome#5945 | 🇺🇸 USA | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.244.146.94:443?type=ws&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net#5949 | 🇵🇱 Poland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&sni=yahoo.com#5988 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
